@@ -6,7 +6,6 @@ def count_words():
     with open('count_words.txt', "r") as f:
         for line in f: 
             for word in line.split():
-
                 totalWords = sum(1 for word in line.split()) 
                 return totalWords
 
