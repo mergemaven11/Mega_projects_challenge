@@ -18,17 +18,17 @@ Numbers
 
 **Find PI to the Nth Digit** – Enter a number and have the program generate PI up to that many decimal places. Keep a limit to how far the program will go.
 
-[**Fibonacci Sequence**](https://github.com/miguelgazela/Projects/blob/master/Numbers/fibonacci.py) – Enter a number and have the program generate the Fibonacci sequence to that number or to the Nth number.
+**Fibonacci Sequence**– Enter a number and have the program generate the Fibonacci sequence to that number or to the Nth number.
 
-[**Prime Factorization**](https://github.com/miguelgazela/Projects/blob/master/Numbers/prime_factor.py) – Have the user enter a number and find all Prime Factors (if there are any) and display them.
+**Prime Factorization** – Have the user enter a number and find all Prime Factors (if there are any) and display them.
 
-[**Next Prime Number**](https://github.com/miguelgazela/Projects/blob/master/Numbers/next_prime.py) – Have the program find prime numbers until the user chooses to stop asking for the next one.
+**Next Prime Number** – Have the program find prime numbers until the user chooses to stop asking for the next one.
 
-[**Find Cost of Tile to Cover W x H Floor**](https://github.com/miguelgazela/Projects/blob/master/Numbers/cost_tile.py) – Calculate the total cost of tile it would take to cover a floor plan of width and height, using a cost entered by the user.
+**Find Cost of Tile to Cover W x H Floor** – Calculate the total cost of tile it would take to cover a floor plan of width and height, using a cost entered by the user.
 
 **Mortgage Calculator** – Calculate the monthly payments of a fixed term mortgage over given Nth terms at a given interest rate. Also figure out how long it will take the user to pay back the loan.
 
-[**Change Return Program**](https://github.com/miguelgazela/Projects/blob/master/Numbers/return.py) – The user enters a cost and then the amount of money given. The program will figure out the change and the number of quarters, dimes, nickels, pennies needed for the change.
+**Change Return Program** – The user enters a cost and then the amount of money given. The program will figure out the change and the number of quarters, dimes, nickels, pennies needed for the change.
 
 [**Binary to Decimal and Back Converter**](https://github.com/miguelgazela/Projects/blob/master/Numbers/binary_converter.py) – Develop a converter to convert a decimal number to binary or a binary number to its decimal equivalent.
 
@@ -40,11 +40,11 @@ Numbers
 
 **Distance Between Two Cities** – Calculates the distance between two cities and allows the user to specify a unit of distance. This program may require finding coordinates for the cities like latitude and longitude.
 
-[**Credit Card Validator**](https://github.com/miguelgazela/Projects/blob/master/Numbers/credit_card.py) – Takes in a credit card number from a common credit card vendor (Visa, MasterCard, American Express, Discoverer) and validates it to make sure that it is a valid number (look into how credit cards use a checksum).
+**Credit Card Validator**– Takes in a credit card number from a common credit card vendor (Visa, MasterCard, American Express, Discoverer) and validates it to make sure that it is a valid number (look into how credit cards use a checksum).
 
 **Tax Calculator** – Asks the user to enter a cost and either a country or state tax. It then returns the tax plus the total cost with tax.
 
-[**Factorial Finder**](https://github.com/miguelgazela/Projects/blob/master/Numbers/factorial.py) - The Factorial of a positive integer, n, is defined as the product of the sequence n, n-1, n-2, ...1 and the factorial of zero, 0, is defined as being 1. Solve this using both loops and recursion.
+**Factorial Finder** - The Factorial of a positive integer, n, is defined as the product of the sequence n, n-1, n-2, ...1 and the factorial of zero, 0, is defined as being 1. Solve this using both loops and recursion.
 
 **Complex Number Algebra** - Show addition, multiplication, negation, and inversion of complex numbers in separate functions. (Subtraction and division operations can be made with pairs of these operations.) Print the results for each operation tested.
 
@@ -79,15 +79,15 @@ Graphs
 Text
 ---------
 
-[**Reverse a String**](https://github.com/miguelgazela/Projects/blob/master/Text/reverse_string.py) – Enter a string and the program will reverse it and print it out.
+[**Reverse a String**](https://github.com/Tobias2023/Mega_projects_challenge/blob/master/Text/Reverse_a_String.py) – Enter a string and the program will reverse it and print it out.
 
-[**Pig Latin**](https://github.com/miguelgazela/Projects/blob/master/Text/pig_latin.py) – Pig Latin is a game of alterations played on the English language game. To create the Pig Latin form of an English word the initial consonant sound is transposed to the end of the word and an ay is affixed (Ex.: "banana" would yield anana-bay). Read Wikipedia for more information on rules.
+**Pig Latin** – Pig Latin is a game of alterations played on the English language game. To create the Pig Latin form of an English word the initial consonant sound is transposed to the end of the word and an ay is affixed (Ex.: "banana" would yield anana-bay). Read Wikipedia for more information on rules.
 
-[**Count Vowels**](https://github.com/miguelgazela/Projects/blob/master/Text/count_vowels.py) – Enter a string and the program counts the number of vowels in the text. For added complexity have it report a sum of each vowel found.
+**Count Vowels** – Enter a string and the program counts the number of vowels in the text. For added complexity have it report a sum of each vowel found.
 
-[**Check if Palindrome**](https://github.com/miguelgazela/Projects/blob/master/Text/palindrome.py) – Checks if the string entered by the user is a palindrome. That is that it reads the same forwards as backwards like “racecar”
+**Check if Palindrome** – Checks if the string entered by the user is a palindrome. That is that it reads the same forwards as backwards like “racecar”
 
-[**Count Words in a String**](ttps://github.com/miguelgazela/Projects/blob/master/Text/count_words.py) – Counts the number of individual words in a string. For added complexity read these strings in from a text file and generate a summary.
+[**Count Words in a String**](https://github.com/Tobias2023/Mega_projects_challenge/blob/master/Text/Count_Words_in_a_String.py) – Counts the number of individual words in a string. For added complexity read these strings in from a text file and generate a summary.
 
 **Text Editor** – Notepad style application that can open, edit, and save text documents. Add syntax highlighting and other features.
 
@@ -103,7 +103,7 @@ Text
 
 **Fortune Teller (Horoscope)** – A program that checks your horoscope on various astrology sites and puts them together for you each day.
 
-[**Vigenere / Vernam / Ceasar Ciphers**](https://github.com/miguelgazela/Projects/blob/master/Text/cipher.py) – Functions for encrypting and decrypting data messages. Then send them to a friend. - Incomplete
+**Vigenere / Vernam / Ceasar Ciphers** – Functions for encrypting and decrypting data messages. Then send them to a friend. - Incomplete
 
 **Random Gift Suggestions** – Enter various gifts for certain people when you think of them. When its time to give them a gift (xmas, birthday, anniversary) it will randomly pick one and perhaps places you can get it.
 
@@ -113,14 +113,14 @@ Text
 
 **Regex Query Tool** – A tool that allows the user to enter a text string and then in a separate control enter a regex pattern. It will run the regular exp****ression against the source text and return any matches or flag errors in the regular exp****ression.
 
-[**Forty Days of Dating Scraper**](https://github.com/miguelgazela/Projects/blob/master/Text/fortydaysdating.py) - A small script that fetches date from the fortydaysofdating.com website and opens a new tab on the default browser as soon as a new post is posted.
+**Forty Days of Dating Scraper** - A small script that fetches date from the fortydaysofdating.com website and opens a new tab on the default browser as soon as a new post is posted.
 
 Networking
 ---------
 
 **FTP Program** – A file transfer program which can transfer files back and forth from a remote web sever.
 
-[**Get Atomic Time from Internet Clock**](https://github.com/miguelgazela/Projects/blob/master/Networking/atomic.py) – This program will get the true atomic time from an atomic time clock on the Internet. There are various clocks across the world. Do a search for a list of them.
+**Get Atomic Time from Internet Clock** – This program will get the true atomic time from an atomic time clock on the Internet. There are various clocks across the world. Do a search for a list of them.
 
 **Chat Application (IRC or MSN Style)** – Create a chat application that can create simple chat rooms like on Internet Relay Chat (IRC) or a more direct chatting style like MSN. For added complexity, create your own protocol to facilitate this chatting.
 
@@ -173,7 +173,7 @@ Classes
 
 **Chart Making Class / API** – Create a class, or a set of classes, that generates bar charts, pie charts, histograms, and scatter plot charts. For added complexity, make this a service where people can connect to a web server, supply information and it returns a chart image for them in gif or jpg format.
 
-[**Shape Area and Perimeter Classes**](https://github.com/miguelgazela/Projects/blob/master/Classes/shape.py) – Create an abstract class called “Shape” and then inherit from it other shapes like diamond, rectangle, circle, triangle etc. Then have each class override the area and perimeter functionality to handle each shape type.
+**Shape Area and Perimeter Classes** – Create an abstract class called “Shape” and then inherit from it other shapes like diamond, rectangle, circle, triangle etc. Then have each class override the area and perimeter functionality to handle each shape type.
 
 **Matrix Class** – A class to manage matrices. Add, subtract and multiple matrices.
 
@@ -260,7 +260,7 @@ Files
 
 **Image Map Generator** – Image maps are those images on the web that have multiple hover points that link to different pages. Such images may include maps or splash pages. See if you can make one where the user specifies an image, clicks hotspots in the image and specify links. It will then generate the HTML code to a file that the user can then copy and paste into their website to make the image map.
 
-[**File Copy Utility**](https://github.com/miguelgazela/Projects/blob/master/Files/file_copy.py) – Create a utility that can do bulk file copying and backups of other files. - Incomplete
+**File Copy Utility** – Create a utility that can do bulk file copying and backups of other files. - Incomplete
 
 **Code Snippet Manager** – Another utility program that allows coders to put in functions, classes or other tidbits to save for use later. Organized by the type of snippet or language the coder can quickly look up code. For extra practice try adding syntax highlighting based on the language.
 
@@ -339,7 +339,7 @@ Games
 
 **Chess and Checkers** – Simply put a game of chess or checkers. Try to make it playable online and if you can use a graphical user interface that can also undo or redo a step as well as keep a history of moves for replay.
 
-[**Hangman**](https://github.com/miguelgazela/Projects/blob/master/Games/hangman.py) – Randomly select a word from a file, have the user guess characters in the word. For each character they guess that is not in the word, have it draw another part of a man hanging in a noose. If the picture is completed before they guess all the characters, they lose. - Incomplete
+[**Hangman**](https://github.com/Tobias2023/Mega_projects_challenge/blob/master/Games/Hangman.py) – Randomly select a word from a file, have the user guess characters in the word. For each character they guess that is not in the word, have it draw another part of a man hanging in a noose. If the picture is completed before they guess all the characters, they lose. - Incomplete
 
 **Crossword Puzzle** – Create a crossword puzzle which links words together on common letters. Provide a list of clues for each word and let the user enter fill in the words until the entire crossword is filled in.
 
