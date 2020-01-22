@@ -5,7 +5,7 @@ Mega Project List - Tobias Scott
 
 Some details:
 
-* I will use Python to solve these.
+* I will attempt this challenge using Multiple languages.
 * The projects will not be made in the order posted.
 * I may not be able to complete all of them. 
 
